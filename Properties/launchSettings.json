@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IndexAndTranfer": {
+      "commandName": "Project",
+      "commandLineArgs": "/index /assinante:23"
+    }
+  }
+}
